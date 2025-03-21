@@ -1,0 +1,11 @@
+[
+    {
+        "visible": true,
+        "value": "/tmp/gradio/71e18aaf737cca8f017851ff56d77daef453e4b2/image.webp",
+        "__type__": "update"
+    },
+    {
+        "visible": false,
+        "__type__": "update"
+    }
+]
